@@ -15,7 +15,7 @@ router.get("/nosotros", function(req,res){
 
 //CONTACTO
 router.get("/contacto", function(req, res){
-	res.render("contacto", {title:"Contacto"});
+	res.render("contacto", {title:"Contacto | Tendy"});
 })
 
 module.exports = router;
