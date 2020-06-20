@@ -1,0 +1,144 @@
+/* jumbotrons */
+#home{
+    background:url("../imgs/tinto1.png");
+    height:600px;
+    background-size: cover;
+    background-position: center;
+}
+
+#nosotros{
+    background:url("../imgs/comercial.jpeg");
+    height:500px;
+    background-size: cover;
+    background-position: center;
+}
+strong{
+    font-weight: 600;
+    color: rgb(142,15,78);
+}
+
+/* header */
+.logo{
+    width:10%;
+}
+/* body */
+body{
+    font-family: oxygen;
+    color:rgb(116, 116, 116);
+    margin-bottom:0;
+    padding-bottom: 0;
+    font-size: 1.1rem;
+}
+
+/* footer */
+.footer div i{
+    color:rgb(116, 116, 116);
+}
+.footer img:nth-child(1){
+    width: 15%;
+}
+.footer img:nth-child(2){
+    width: 10%;
+}
+
+/* content */
+
+h1{
+    color:rgb(142,15,78);
+    font-size: 3rem;
+}
+
+.sinergia{
+    font-size: 1.2rem;
+    font-weight: 200;
+}
+.key p{
+    font-size: 1.2rem;
+    margin-top: 5%;
+    font-weight: 200;
+}
+.key i{
+    color: rgb(142,15,78);
+}
+
+/* home */
+.home{
+    width: 200px;
+}
+.tendencias{
+    color: white;
+    font-weight: 200;
+    font-size: 2rem;
+    margin-top: 10%;
+}
+
+.proximamente{
+    color:white;
+    font-size: 4rem;
+    font-weight: 200;
+    margin-top: 20%;
+}
+
+/* navbar */
+#brand{
+    color:gray;
+    font-family: libre baskerville;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.navbar-toggler{
+    border:none;
+}
+
+#brand:hover{
+    color:rgb(116, 116, 116);
+}
+
+#active{
+    color:RGB(64, 181, 186);
+    font-weight: 600;
+}
+/* ends navbar */
+
+/* images */
+img{
+    width: 80%;
+}
+
+/* contacto */
+#contacto i{
+    color: rgb(142,15,78);
+}
+.fundadores p{
+    font-family: arial;
+}
+
+
+section{
+    width: 70%;
+    margin: 50px auto;
+}
+
+.resaltar{
+    background:RGB(64, 181, 186);
+    font-weight: 500;
+    color: white;
+}
+
+#vinner{
+    margin-bottom: 50px;
+}
+
+span i{
+    color:rgb(184, 184, 184);
+}
+
+/* imagenes */
+#vision{
+    width:100px;
+    height: 120px;
+}
+
+@media (max-width: 1000px){
+}
