@@ -3,11 +3,6 @@ var express = require("express");
 var app = express();
 var bodyParser= require("body-parser");
 var mongoose = require("mongoose");
-// var Fundador = require("./models/fundador");
-// var Aliado = require("./models/aliado");
-// var Consultor = require("./models/consultor");
-// var Colaborador = require("./models/colaborador");
-// var seed=require("./seed");
 
 // routes
 var Routes = require("./routes/index");
